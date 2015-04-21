@@ -1,1 +1,1 @@
-# Top-3000-IT-words
+# Japenese word rankings
